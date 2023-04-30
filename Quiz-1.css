@@ -1,0 +1,29 @@
+body{
+    background-image: url(bp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mono{
+    text-align: center;
+}
+.mono h1{
+    margin-top: 10px;
+}
+.bi{
+ 
+    color: red;
+    font-size: 60px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.btn-submit {
+    margin-top: 20px;
+   
+}
+.btn{
+    color: red;
+}
+.col-md-12{
+    text-align: center;
+}
